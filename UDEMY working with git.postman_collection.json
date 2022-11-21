@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "37567ecf-4551-42eb-bc42-eb5227e29f77",
+		"name": "UDEMY working with git",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21220147"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "example.com",
+					"host": [
+						"example",
+						"com"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
