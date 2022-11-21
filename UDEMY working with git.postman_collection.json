@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "New Request",
+			"name": "My First Request",
 			"request": {
 				"method": "GET",
 				"header": [],
